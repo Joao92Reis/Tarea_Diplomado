@@ -1,6 +1,4 @@
-# Tarea_Diplomado
-
-# Titulo del Trabajo
+# Título del Trabajo
 Análisis del efecto de varios productos en la calidad de agua de piscinas camaroneras al largo de 37 días de cultivo
 
 
