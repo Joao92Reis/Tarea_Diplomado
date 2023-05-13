@@ -1,16 +1,16 @@
-#Tarea_Diplomado
+# Tarea_Diplomado
 
-#Titulo del Trabajo
-#Análisis del efecto de varios productos en la calidad de agua de piscinas camaroneras al largo de 37 días de cultivo
+# Titulo del Trabajo
+Análisis del efecto de varios productos en la calidad de agua de piscinas camaroneras al largo de 37 días de cultivo
 
 
-#Autor
+# Autor
 João Reis
 
 
 
-#Descripción del problema
-#Evaluación de la evolución de niveles de oxígeno disuelto y compuestos nitrogenados en el agua trás aplicación de distintos tratamientos (aditivos).
+# Descripción del problema
+Evaluación de la evolución de niveles de oxígeno disuelto y compuestos nitrogenados en el agua trás aplicación de distintos tratamientos (aditivos).
 
 #Presentación y resúmen de la base de datos
 library(readxl)
